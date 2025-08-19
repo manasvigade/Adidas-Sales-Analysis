@@ -83,13 +83,13 @@ The goal is to demonstrate end-to-end **data cleaning, analysis, visualization, 
 
 ---
 
-## 📈 Business Insights
-Quick insights (from your data)
-Top region by revenue: West — $269,943,182
-Top product by revenue: Men’s Street Footwear — $208,826,244
-Highest-revenue sales channel: In-store — $356,643,750
-Peak month (aggregate across years): July (7)
-Correlation (Price vs Units): +0.27 (weak positive; pricing doesn’t strongly drive volume alone)
+## 📈 Business Insights ##
+- Quick insights (from your data)
+- Top region by revenue: West — $269,943,182
+- Top product by revenue: Men’s Street Footwear — $208,826,244
+- Highest-revenue sales channel: In-store — $356,643,750
+- Peak month (aggregate across years): July (7)
+- Correlation (Price vs Units): +0.27 (weak positive; pricing doesn’t strongly drive volume alone)
 ---
 
 
